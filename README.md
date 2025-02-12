@@ -8,8 +8,6 @@ The samples are organized into categories and common usage examples, just like o
 
 ## Using the Sample Code
 
-
-
 The samples are all completely independent and self-contained. You can analyze them to get an understanding of how a particular method works, or you can use the snippets as a starting point for your own project.
 
 You can also run each sample directly from the command line.
